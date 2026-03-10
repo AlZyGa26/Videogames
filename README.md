@@ -33,6 +33,6 @@ page admin :
 
 
 modération automatique :
-  photo de profil (nudité, nazi, ect... vérification)
+  photo de profil (nudité, ect... vérification)
   nom (dictionnaire de mots et leurs variables interdits)
 
