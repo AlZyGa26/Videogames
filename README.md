@@ -4,7 +4,7 @@ Site jeux vidéos TP
 zoning :
   barre latérale (zone de gauche) : naviguer entre les pages
   centre (zone du milieu) : page
-  zone du haut : logo à gauche, nom au milieu, boutons "connexion" et "s'inscrire" (ou "compte" à droite
+  zone du haut : logo à gauche, nom au milieu, boutons "connexion" et "s'inscrire" (ou "compte" à droite)
 
 page d'accueil :
   sondage (indisponible sans connexion, 1 seule fois max, obligatoire)
