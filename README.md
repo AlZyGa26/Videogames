@@ -28,12 +28,7 @@ page de compte :
 page admin :
   utilisateurs (nom, photo de profil)
 
-
-
-
-
-
 modération automatique :
   photo de profil (nudité, ect... vérification)
-  nom (dictionnaire de mots et leurs variables interdits)
+  nom/commentaires (dictionnaire de mots et leurs variables interdits)
 
