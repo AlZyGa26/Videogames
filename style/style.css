@@ -1,1 +1,32 @@
+.general {
+    margin: 20px 20px 20px 20px;
+}
 
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline red;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+.fin {
+    margin: 10px 10px 10px 10px;
+}
+
+.debut {
+    font-size: 25px;
+
+}
+
+#bordure_texte {
+    border: solid 1px
+}
+
+.zoom {
+  transition: transform .35s;
+}
+
+.zoom:hover {
+  transform: scale(1.1); 
+}
